@@ -2,8 +2,6 @@
     "title": "Quantum Computing For Everyone",
     "description": "Quantum computing",
     "language": "en",
-    "direction": "ltr",
-    "root": "book",
     "plugins": [
         "katex"
     ],
