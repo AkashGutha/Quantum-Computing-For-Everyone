@@ -1,2 +1,3 @@
-# Quantum-Computing-For-Everyone
-A comprehensive guide :book: for everyone to get started with Quantum Computing :electron: :zap:
+# Quantum Computing For Everyone :electron: :zap:
+
+A comprehensive guide for everyone to get started with Quantum Computing :electron:

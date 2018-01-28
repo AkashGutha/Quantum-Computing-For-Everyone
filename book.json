@@ -3,14 +3,10 @@
     "description": "Quantum computing",
     "author": "Akash Gutha",
     "language": "en",
-    "root": "book",
+    "root": "./book",
     "plugins": [
         "katex"
     ],
-    "structure": {
-        "readme": "README.md",
-        "summary": "SUMMARY.md"
-    },
     "styles": {
         "website": "styles/website.css",
         "ebook": "styles/ebook.css",
