@@ -1,0 +1,21 @@
+{
+    "title": "Quantum Computing For Everyone",
+    "description": "Quantum computing",
+    "language": "en",
+    "direction": "ltr",
+    "root": "book",
+    "plugins": [
+        "katex"
+    ],
+    "styles": {
+        "website": "styles/website.css",
+        "ebook": "styles/ebook.css",
+        "pdf": "styles/pdf.css",
+        "mobi": "styles/mobi.css",
+        "epub": "styles/epub.css"
+    },
+    "structure": {
+        "readme": "README.md",
+        "summary": "SUMMARY.md"
+    }
+}
