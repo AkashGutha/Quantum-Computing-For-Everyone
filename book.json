@@ -1,7 +1,9 @@
 {
     "title": "Quantum Computing For Everyone",
     "description": "Quantum computing",
+    "author": "Akash Gutha",
     "language": "en",
+    "root": "book",
     "plugins": [
         "katex"
     ],
